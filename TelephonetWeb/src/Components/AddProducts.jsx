@@ -25,7 +25,7 @@ function AddProduct({ addPhone }) {
     };
 
     addPhone(newPhone);
-    navigate("/products");
+ navigate("/products");
   }
 
   return (
