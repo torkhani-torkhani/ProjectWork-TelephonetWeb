@@ -1,0 +1,37 @@
+.bga-10-bg {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+  isolation: isolate;
+  --bga-10-bg: oklch(0.15 0.02 256);
+  --bga-10-acc: oklch(0.82 0.15 178);
+  background: var(--bga-10-bg);
+}
+
+.bga-10__c {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.bga-10__wash {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(
+      80% 62% at 50% 46%,
+      color-mix(in oklab, var(--bga-10-acc) 9%, transparent),
+      transparent 68%
+    ),
+    radial-gradient(
+      120% 100% at 50% 50%,
+      transparent 45%,
+      oklch(0.1 0.02 256 / 0.8) 100%
+    );
+}

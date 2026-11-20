@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "phoneName": "OnePlus 12",
+    "price": 799,
+    "imageUrl": "https://oasis.opstatics.com/content/dam/oasis/page/2023/cn/12/12-green.png"
+  },
+  {
+    "id": "2",
+    "phoneName": "Xiaomi 14 Pro",
+    "price": 750,
+    "imageUrl": "https://cdn.beebom.com/mobile/2024/01/Xiaomi-14-Pro.png"
+  },
+  {
+    "id": "3",
+    "phoneName": "Huawei Pura 70 Pro",
+    "price": 950,
+    "imageUrl": "https://ssscellular.co.za/wp-content/uploads/2024/05/white.png"
+  },
+  {
+    "id": "4",
+    "phoneName": "Sony Xperia 1 VI",
+    "price": 1299,
+    "imageUrl": "https://www.recyclepro.co.uk/admin-wr/dashboard/assets/Products/sell-sony-xperia-1-vii.png"
+  },
+  {
+    "id": "5",
+    "phoneName": "Xiaomi Redmi Note 13 Pro",
+    "price": 320,
+    "imageUrl": "https://i05.appmifile.com/997_item_uk/12/01/2024/f230bb1b4634168983eb59306b3de78b.png"
+  },
+  {
+    "id": "6",
+    "phoneName": "Oppo Find X7 Ultra",
+    "price": 920,
+    "imageUrl": "https://cdn.beebom.com/mobile/oppo-find-x7-ultra/oppo-find-x7-ultra-black-back-and-front.png"
+  },
+  {
+    "id": "7",
+    "phoneName": "Vivo X100 Pro",
+    "price": 880,
+    "imageUrl": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1703155786129/235fc4fbe0277e6fc5f25fc84fabdd7f.png"
+  },
+  {
+    "id": "8",
+    "phoneName": "oppo find x9 ultra",
+    "price": 1499.9,
+    "imageUrl": "https://www.dxomark.com/wp-content/uploads/medias/post-191938/Oppo-Find-X9-Ultra-png-1024x691.png"
+  },
+  {
+    "id": "9",
+    "phoneName": "Motorola Signature 27",
+    "price": 1399.99,
+    "imageUrl": "https://smsgadget.sgp1.digitaloceanspaces.com/smsgadgetv1/public/product/motorola-signature-27-2026-09-23-6ab38a42d20e6.webp"
+  },
+  {
+    "id": "10",
+    "phoneName": "Realme GT 5 Pro",
+    "price": 650,
+    "imageUrl": "https://static.giztop.com/catalog/product/r/e/realme_gt_5_pro.png?eo-img.resize=w%2F700%2Fh%2F700&eo-img.format=webp"
+  }
+]
